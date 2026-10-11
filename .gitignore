@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 项目特定
+config.py
+*.log
+failed.txt
+debug.html
+
+# 下载输出
+images/
+artists/
+novels/
